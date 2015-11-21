@@ -1,7 +1,7 @@
-#苏菲酱的学习计划
+#苏菲酱的前端副本进度
 ---
 
-section 1:
+BOSS 1:
 
 - [ ] online music player
   - [ ] proptype
