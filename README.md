@@ -4,6 +4,3 @@
 BOSS 1:
 
 - [ ] online music player
-  - [ ] proptype
-  - [ ] design
-  - [ ] coding part
